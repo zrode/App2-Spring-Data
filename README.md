@@ -3,5 +3,7 @@ On pourrait créer une variante avec JPA et une autre avec JDBC mais je préfèr
 
 Dépendances :
   Lombok
+  
   Spring Data
+  
   H2 Database
